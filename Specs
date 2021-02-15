@@ -1,0 +1,52 @@
+                              Specs         Score
+10     Developed Low Intensity Area  2.967447e+06
+9         Developed Open Space Area  1.976775e+06
+8                  Undeveloped Area  7.390987e+05
+11  Developed Medium Intensity Area  5.920598e+05
+5                  Residential Area  5.047541e+05
+12    Developed High Intensity Area  3.627193e+05
+6     Commerical/Industrial/MU Area  1.799328e+05
+1                     Median Income  5.580405e+04
+7                        Other Area  1.947493e+04
+3            Day population density  1.856708e+04
+15       Building Count Residential  3.682296e+03
+2                 Household Density  3.229152e+03
+18                        Ridership  2.373252e+03
+17                Median Gross Rent  8.980003e+02
+16             Median Contract Rent  5.715163e+02
+
+
+                              Specs         Score
+10     Developed Low Intensity Area  2.967447e+06
+9         Developed Open Space Area  1.976775e+06
+8                  Undeveloped Area  7.390987e+05
+11  Developed Medium Intensity Area  5.920598e+05
+5                  Residential Area  5.047541e+05
+12    Developed High Intensity Area  3.627193e+05
+6     Commerical/Industrial/MU Area  1.799328e+05
+1                     Median Income  5.580405e+04
+7                        Other Area  1.947493e+04
+3            Day population density  1.856708e+04
+15       Building Count Residential  3.682296e+03
+2                 Household Density  3.229152e+03
+18                        Ridership  2.373252e+03
+17                Median Gross Rent  8.980003e+02
+16             Median Contract Rent  5.715163e+02
+
+
+
+9         Developed Open Space Area  3.533824
+1                     Median Income  1.782437
+8                  Undeveloped Area  1.595151
+3            Day population density  0.995578
+0            Vehicles per household  0.876748
+4       Percent below poverty level  0.750029
+17                Median Gross Rent  0.605991
+7                        Other Area  0.500641
+16             Median Contract Rent  0.428288
+15       Building Count Residential  0.318734
+6     Commerical/Industrial/MU Area  0.289227
+12    Developed High Intensity Area  0.279695
+2                 Household Density  0.208227
+11  Developed Medium Intensity Area  0.197213
+5                  Residential Area  0.117041
